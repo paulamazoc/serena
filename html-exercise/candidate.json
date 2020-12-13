@@ -1,0 +1,146 @@
+{
+    "products": [
+        {
+            "id": 3581,
+            "title": "Balboa Bed",
+            "stores": [
+                {
+                    "id": 583219,
+                    "name": "San Francisco"
+                }
+            ],
+            "category": {
+                "id": 92385,
+                "name": "Bedroom"
+            }
+        },
+        {
+            "id": 3012,
+            "title": "Teak Ladder",
+            "stores": [
+                {
+                    "id": 583219,
+                    "name": "San Francisco"
+                },
+                {
+                    "id": 53821,
+                    "name": "Online"
+                }
+            ],
+            "category": {
+                "id": 92385,
+                "name": "Bedroom"
+            }
+        },
+        {
+            "id": 3102,
+            "title": "Positano Duvet Cover",
+            "stores": [
+                {
+                    "id": 583219,
+                    "name": "San Francisco"
+                },
+                {
+                    "id": 583201,
+                    "name": "New York City"
+                }
+            ],
+            "category": {
+                "id": 92385,
+                "name": "Bedroom"
+            }
+        },
+        {
+            "id": 3667,
+            "title": "Darby Table Lamp",
+            "stores": [
+                {
+                    "id": 583219,
+                    "name": "San Francisco"
+                }
+            ],
+            "category": {
+                "id": 92385,
+                "name": "Bedroom"
+            }
+        },
+        {
+            "id": 6728,
+            "title": "Pretty Beach",
+            "stores": [
+                {
+                    "id": 583219,
+                    "name": "San Francisco"
+                }
+            ],
+            "category": {
+                "id": 62832,
+                "name": "Art"
+            }
+        },
+        {
+            "id": 6921,
+            "title": "Three Women with Coffee",
+            "stores": [
+                {
+                    "id": 583201,
+                    "name": "New York City"
+                }
+            ],
+            "category": {
+                "id": 62832,
+                "name": "Art"
+            }
+        },
+        {
+            "id": 0,
+            "title": "Barton Sofa",
+            "stores": [
+                {
+                    "id": 583219,
+                    "name": "San Francisco"
+                },
+                {
+                    "id": 53821,
+                    "name": "Online"
+                }
+            ],
+            "category": {
+                "id": 35820,
+                "name": "Living Room"
+            }
+        },
+        {
+            "id": 0,
+            "title": "Blake Coffee Table",
+            "stores": [
+                {
+                    "id": 583201,
+                    "name": "New York City"
+                }
+            ],
+            "category": {
+                "id": 35820,
+                "name": "Living Room"
+            }
+        },
+        {
+            "id": 0,
+            "title": "South Seas Bar Cart",
+            "stores": [
+                {
+                    "id": 583201,
+                    "name": "New York City"
+                },
+                {
+                    "id": 53821,
+                    "name": "Online"
+                }
+            ],
+            "category": {
+                "id": 35820,
+                "name": "Living Room"
+            }
+        }
+    ]
+}

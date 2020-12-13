@@ -1,4 +1,4 @@
-# Serena Coding Test
+# Serena Coding Test - Allocation Exercise
 
 ## How to launch:
 1. Download files.

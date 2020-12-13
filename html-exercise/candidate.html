@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <title>S&L Candidate Assessment</title>
+    <link rel="stylesheet" href="candidate.css">
+</head>
+
+<body>
+    <h1>S&L Candidate Assessment</h1>
+
+    <h2>These questions use the JSON in candidate.json and the HTML skeleton below</h2>
+
+    <h3>Using the sample JSON in candidate.json and the HTML skeleton below, write JavaScript (in candidate.js) that
+        could accomplish the following:</h3>
+
+    <ul>
+        <li>Populate the lists with all of the products, grouped by category, displaying their relevant information in
+            the format indicated.
+            If the product is available at more than one store, the stores should be listed separated by ', '.
+        </li>
+        <li>The links should point to: 'http://www.serenaandlily.com/products/theIdOfTheProduct'.</li>
+        <li>Populate the select menus with the relevant options. Selecting the options should hide and reveal products
+            as appropriate.</li>
+        <li>Selecting the LOCATION or CATEGORY option should clear the filter for that attribute.</li>
+        <li>If there are no products that match the selected filter in a given category, the category header should be
+            hidden as well, and revealed again
+            when the filter is cleared.</li>
+    </ul>
+
+    <p>You may incorporate jQuery if you wish, or use vanilla JS.</p>
+
+    <main>
+        <select class="location">
+            <option value="">LOCATION</option>
+        </select>
+        <select class="category">
+            <option value="">CATEGORY</option>
+        </select>
+        <section class="productsList"></section>
+
+    </main>
+    <script src="./candidate.js"></script>
+</body>
+
+</html>
