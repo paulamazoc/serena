@@ -3,5 +3,5 @@
 ## How to launch:
 1. Download files.
 2. Install [parcel](https://parceljs.org/) to bundle the project and launch a local server `npm install -g parcel-bundler`.
-3. Run `parcel candidate.html` in a console. Make sure you are in the same forlder of `candidate.html` file.
+3. Run `parcel candidate.html` in a console. Make sure you are in the same folder of `candidate.html` file.
 4. Open `http://localhost:1234/` in your browser to interact with it 💃.
