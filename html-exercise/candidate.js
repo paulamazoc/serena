@@ -10,7 +10,6 @@ const categorySelect = document.querySelector('.category');
 
 const getData = () => {
   products = data?.products;
-  // console.table(products);
 
   categories = products
   .map( product => product.category)
